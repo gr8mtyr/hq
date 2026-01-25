@@ -1,0 +1,9 @@
+---
+.title = "About",
+.date = @date("2025-01-25"),
+.author = "GrimTyr",
+.layout = "index.shtml",
+.draft = true,
+---
+
+Nothing here yet.

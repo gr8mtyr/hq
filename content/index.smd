@@ -1,0 +1,24 @@
+---
+.title = "Homepage",
+.date = @date("2025-01-25"),
+.author = "GrimTyr",
+.layout = "index.shtml",
+.draft = false,
+---
+
+Hi there, I am Mahmoud (also known as GrimTyr), I am based in Morocco, and a software engineer graduate from EMSI (École marocaine des sciences de l'ingénieur).
+
+I generally work on building system tools, web development, and do some recreational programming to try and learn new things.
+
+## You can find me in
+
+- [Github](https://github.com/gr8mtyr)
+- [CodeBerg](https://codeberg.org/grimtyr)
+- [Linkedin](https://www.linkedin.com/in/mahmoud-es-sehayli)
+
+or contact me via [mahmoudessehayli@gmail.com](mailto:mahmoudessehayli@gmail.com).
+
+## Projects I worked on
+
+- [Nidaa](https://codeberg.org/grimtyr/nidaa) a cli and desktop app to check the next prayer time.
+- [Bukfindr](https://github.com/gr8mtyr/bukfindr) a website to find books.

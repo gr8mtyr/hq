@@ -1,0 +1,14 @@
+---
+.title = "Blog",
+.date = @date("2026-01-25"),
+.author = "GrimTyr",
+.layout = "blog.shtml",
+.alternatives = [{
+    .name = "rss",
+    .layout = "blog.xml",
+    .output = "index.xml",
+}],
+.draft = true,
+---
+
+Nothing here yet.

@@ -1,0 +1,12 @@
+---
+.title = "Devlog Archive",
+.date = @date("2026-01-25"),
+.author = "GrimTyr",
+.layout = "devlog-archive.shtml",
+.alternatives = [{
+    .name = "rss",
+    .layout = "devlog.xml",
+    .output = "index.xml",
+}],
+.draft = true,
+---
