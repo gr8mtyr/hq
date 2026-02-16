@@ -1,11 +1,11 @@
 Site {
     .title = "GrimTyr's corner of the web",
-    .host_url = "https://gr8mtyr.github.io",
-    .url_path_prefix = "hq",
+    .host_url = "https://blog.grimtyr.dev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
     .static_assets = [
         "Temml.woff2",
+        "CNAME",
     ],
 }
