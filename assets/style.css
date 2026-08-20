@@ -3,27 +3,27 @@ h2,
 h3,
 h4,
 h5 {
-  color: #ddd;
+  color: var(--blue);
   font-family: "Verdana", sans-serif;
 }
 
 b,
 strong {
-  color: #fff;
+  color: var(--red);
 }
 
 a {
-  color: #eee;
+  color: var(--cyan);
 }
 
 html {
-  color: #ccc;
+  color: var(--fg);
   font-family: "Georgia", serif;
   font-size: 1.2em;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #111;
+  background-color: var(--bg);
 }
 
 body {
@@ -68,8 +68,8 @@ nav {
 }
 
 .wave {
-  background: #111;
-  color: #fff;
+  background: var(--bg-light);
+  color: var(--fg);
   text-shadow: 1px 1px 10px #fff, 1px 1px 10px #ccc;
 }
 

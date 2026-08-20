@@ -1,6 +1,7 @@
-Site {
+.zine_version = "0.13.0",
+.site = .simple(.{
     .title = "GrimTyr's corner of the web",
-    .host_url = "https://blog.grimtyr.dev",
+    .host_url = "https://home.grimtyr.dev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
@@ -8,4 +9,4 @@ Site {
         "Temml.woff2",
         "CNAME",
     ],
-}
+})
